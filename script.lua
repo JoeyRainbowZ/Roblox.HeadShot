@@ -6,4 +6,4 @@ local thumbSize Enum.ThumbnailSize.Size420x420
 local content, isReady = Players:GetUserThumbnailAsync(userId, thumbType, thumbSize)
 
 local imageLabel = script.Parent
-imageLabel.Image = content 
+imageLabel.Image = content
