@@ -8,4 +8,4 @@
 3. Paste the Code in the Script.
 
 ### Any problems or questions?
-Just ask for help in Issues!
+Just ask for help [here] (https://github.com/JoeyRainbowZ/Enum.Headshot/issues)!
