@@ -10,5 +10,5 @@
 ### Any problems or questions?
 Just ask for help [here](https://github.com/JoeyRainbowZ/Enum.Headshot/issues)! 
 
-##### Roblox version
-The current Roblox version is 2.449.
+#### Roblox version
+* The current Roblox version is 2.449.
