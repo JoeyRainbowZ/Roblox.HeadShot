@@ -1,5 +1,5 @@
 ## How to get the script?
-1. Open the Script.lua file.
+1. Open the [Script.lua](https://github.com/JoeyRainbowZ/Roblox.HeadShot/blob/main/script.lua) file.
 2. Copy the script.
 
 ## How to insert it into Roblox?
