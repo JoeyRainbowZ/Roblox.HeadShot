@@ -8,7 +8,4 @@
 3. Paste the Code in the Script.
 
 ### Any problems or questions?
-Just ask for help [here](https://github.com/JoeyRainbowZ/Enum.Headshot/issues)! 
-
-#### Roblox version
-* The current Script version is 2.449.
+Just ask for help [here](https://github.com/JoeyRainbowZ/Enum.Headshot/issues)!
